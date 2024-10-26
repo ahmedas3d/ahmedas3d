@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedasaad2002" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedasaad2002?logo=twitter&style=for-the-badge" alt="ahmedasaad2002" /></a> </p>
 
-- 🔭 I’m currently working on **Home Food**
+- 🔭 I’m currently working on **Weather App**
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **News App**
+- 👯 I'm looking to collaborate on **Team Work**
 
-- 💬 Ask me about **Dart, JavaScript**
+- 💬 Ask me about **Dart, Flutter**
 
 - 📫 How to reach me **ahmedxasaad@gmail.com**
 
