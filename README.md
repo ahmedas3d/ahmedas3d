@@ -33,9 +33,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedas3d&show_icons=true&locale=en&theme=tokyonight" alt="deadcodee1" /></p>
 
-<p align="center">
+<div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedas3d&theme=tokyonight&hide_border=true&card_height=180" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedas3d&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
-</p>
+</div>
+
 
