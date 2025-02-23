@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedasaad2002" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedasaad2002?logo=twitter&style=for-the-badge" alt="ahmedasaad2002" /></a> </p>
 
-- 🔭 I’m currently working on **Chat App**
+- 🔭 I’m currently working on **Fitness App**
 
 - 🌱 I’m currently learning **Flutter**
 
